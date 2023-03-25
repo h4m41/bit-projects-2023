@@ -16,3 +16,4 @@ please write down your name and your project in this format 1. [your name]: [you
 8. Sahand Azad :[portfolio](https://github.com/SahandB99/myPortfolio)
 9. Nwa Hameed: [portfolio](https://github.com/nwahameed/Portfolio)
 10. Bishwan Sherko: https://bishwan.vercel.app/
+11.sozan khalil: https://github.com/sozankhalil/myPortfolio
