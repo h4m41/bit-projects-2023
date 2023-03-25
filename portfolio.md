@@ -10,3 +10,4 @@ please write down your name and your project in this format 1. [your name]: [you
 2. Rayan Salah:[portfolio](https://github.com/rayansalah11/portfolio)
 3. Shajwan Namiq: [portfolio](https://github.com/Shajwan-Namiq/portfolio)
 4. Muhammed Abdulla: [portfolio](https://github.com/marshallmhamad/Portfolio-Site)
+5. Shazyar abubakr: [portfolio] (https://github.com/shazyarabubakr/portfolio)
