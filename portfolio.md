@@ -19,4 +19,4 @@ please write down your name and your project in this format 1. [your name]: [you
 11. sozan khalil: https://github.com/sozankhalil/myPortfolio
 12. Rozh Bahman: [portfolio](https://github.com/rozhi-98/Protfolio-with-react-and-tailwind/tree/main)
 13. Moein abas: [Portfolio](https://github.com/moein9/demo-portfolio)
-14.Ehsan Muhamad: [Portfolio](https://github.com/wecho12/my-portfolio)
+14.Ehsan Muhamad: [portfolio](https://github.com/wecho12/my-portfolio)
