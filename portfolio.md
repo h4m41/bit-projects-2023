@@ -14,3 +14,4 @@ please write down your name and your project in this format 1. [your name]: [you
 6. Sana Rzgar : [portfolio](https://github.com/Sanaa00/portfolioo.git)
 7. lanya yousif :[portfolio](https://github.com/lanyayousif/Myportfolio.git)
 8. Sahand Azad :[portfolio](https://github.com/SahandB99/myPortfolio)
+9. Nwa Hameed: [portfolio](https://github.com/nwahameed/Portfolio/tree/main/src/components)
