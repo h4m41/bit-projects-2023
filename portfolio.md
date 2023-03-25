@@ -6,8 +6,7 @@
 ## Projects
 please write down your name and your project in this format 1. [your name]: [your project]
 
-1. Mhamad Saadwn: [portfolio](https://github.com/Bit-Bootcamp/bit-projects-2023)
-2. Rayan Salah:[portfolio](https://github.com/rayansalah11/portfolio)
-3. Shajwan Namiq: [portfolio](https://github.com/Shajwan-Namiq/portfolio)
-4. Muhammed Abdulla: [portfolio](https://github.com/marshallmhamad/Portfolio-Site)
-5. Shazyar abubakr: [portfolio] (https://github.com/shazyarabubakr/portfolio)
+1. Rayan Salah:[portfolio](https://github.com/rayansalah11/portfolio)
+2. Shajwan Namiq: [portfolio](https://github.com/Shajwan-Namiq/portfolio)
+3. Muhammed Abdulla: [portfolio](https://github.com/marshallmhamad/Portfolio-Site)
+4. Shazyar abubakr: [portfolio] (https://github.com/shazyarabubakr/portfolio)
