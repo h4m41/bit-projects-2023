@@ -20,4 +20,4 @@ please write down your name and your project in this format 1. [your name]: [you
 12. Rozh Bahman: [Code](https://github.com/rozhi-98/Protfolio-with-react-and-tailwind/tree/main)
 13. Moein abas: [Code](https://github.com/moein9/demo-portfolio)
 14. Ehsan Muhamad: [Code](https://github.com/wecho12/my-portfolio)
-15. Barez Dilshad: https://github.com/B4r3Z/my-portfolio
+15. [Barez Dilshad]:[https://github.com/B4r3Z/my-portfolio]
