@@ -10,7 +10,7 @@ please write down your name and your project in this format 1. [your name]: [you
 2. Shajwan Namiq: [Code](https://github.com/Shajwan-Namiq/portfolio)
 3. Muhammed Abdulla: [Code](https://github.com/marshallmhamad/Portfolio-Site)
 4. Shazyar abubakr: [Code](https://github.com/shazyarabubakr/portfolio)
-5. Hevar Tofiq: [Demo](https://rageofkurd.netlify.app)
+5. Hevar Tofiq: [Code]([https://rageofkurd.netlify.app](https://github.com/RageOfKurd/RageOfKurd-portfolio))
 6. Sana Rzgar : [Code](https://github.com/Sanaa00/portfolioo.git)
 7. lanya yousif :[Code](https://github.com/lanyayousif/Myportfolio.git)
 8. Sahand Azad :[Code](https://github.com/SahandB99/myPortfolio)
