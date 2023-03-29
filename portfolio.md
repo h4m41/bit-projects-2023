@@ -18,7 +18,7 @@ please write down your name and your project in this format 1. [your name]: [you
 7. lanya yousif :[Code](https://github.com/lanyayousif/Myportfolio.git)
 8. Sahand Azad :[Code](https://github.com/SahandB99/myPortfolio)
 9. Nwa Hameed: [Code](https://github.com/nwahameed/Portfolio)
-10. Bishwan Sherko: [Code](https://github.com/bishwan00/portfolio.git) | [Demo](https://bishwan.vercel.app/)
+10. Bishwan Sherko: [Code](https://github.com/bishwan00/portfolio.git) | [Demo](https://bishwan.vercel.ap/)
 11. sozan khalil: [Code](https://github.com/sozankhalil/myPortfolio)
 12. Rozh Bahman: [Code](https://github.com/rozhi-98/Protfolio-with-react-and-tailwind/tree/main)
 13. Moein abas: [Code](https://github.com/moein9/demo-portfolio)
